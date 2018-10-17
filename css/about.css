@@ -1,0 +1,2182 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:500,400|Open+Sans:400,600,700,300|Nunito+Sans:400,300');
+
+
+.about {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 5633px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.about .bluebg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -1174px;
+  height              : 1922px;
+  width               : 2737px;
+  position            : absolute;
+  margin              : 0;
+  left                : -649px;
+  -ms-transform       : rotate(-6deg); /* IE 9 */
+  -webkit-transform   : rotate(-6deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-6deg);
+}
+.about .herotext {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 183px;
+  height              : 541px;
+  width               : 521px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .herotext .amessagefromourf {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 511px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 50.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.18px;
+  line-height         : 66.0px;
+}
+.about .herotext .heymynameismax {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 182px;
+  height              : auto;
+  width               : 523px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 34.0px;
+}
+.about .button {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 62px;
+  height              : 46px;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 782px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.2s ease-in-out;
+}
+.about .button:hover {
+  transform           : translate(0, -5px);
+  box-shadow          : 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.about .button .rectangle4 {
+  background-color    : rgba(241, 171, 169, 1.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 23px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .button .bookademo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 48px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.25px;
+  line-height         : 16.0px;
+}
+.about .evalogowhitetext1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 62px;
+  height              : 46px;
+  width               : 103px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group35 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : 22px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1018px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group35 .product {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.29px;
+  line-height         : 22.0px;
+}
+.about .group35 .features {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 96px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.29px;
+  line-height         : 22.0px;
+}
+.about .group35 .about1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 192px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.29px;
+  line-height         : 22.0px;
+}
+.about .group35 .blog {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 268px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.29px;
+  line-height         : 22.0px;
+}
+.about .group48 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4744px;
+  height              : 266px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group48 .rectangle {
+  background-color    : rgba(37, 82, 118, 1.0);
+  top                 : 0px;
+  height              : 266px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group48 .evalogowhitetext2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : 140px;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 564px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 269px;
+  height              : 288px;
+  width               : 506px;
+  position            : absolute;
+  margin              : 0;
+  left                : 806px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .fill1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 19px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 171px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 506px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 26px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 159px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 151px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 5px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 34px;
+  height              : 90px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 156px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 110px;
+  height              : 4px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 151px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : 43px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 158px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 68px;
+  height              : 34px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 111px;
+  height              : 11px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 145px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : 33px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 265px;
+  height              : 14px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 162px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill23 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 260px;
+  height              : 8px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 174px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill25 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : 41px;
+  width               : 34px;
+  position            : absolute;
+  margin              : 0;
+  left                : 178px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill27 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : 63px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill29 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 6px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 171px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 16px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 162px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : 140px;
+  width               : 36px;
+  position            : absolute;
+  margin              : 0;
+  left                : 150px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill35 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 17px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 161px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill37 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 270px;
+  height              : 10px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 177px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill39 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 264px;
+  height              : 8px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 195px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : 141px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 171px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill43 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 193px;
+  height              : 87px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 310px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill45 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 98px;
+  height              : 87px;
+  width               : 69px;
+  position            : absolute;
+  margin              : 0;
+  left                : 321px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill47 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 94px;
+  height              : 64px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 314px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill49 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : 18px;
+  width               : 45px;
+  position            : absolute;
+  margin              : 0;
+  left                : 344px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill51 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 128px;
+  height              : 14px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 300px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill53 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 82px;
+  height              : 17px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 343px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill55 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : 27px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 334px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill57 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 53px;
+  height              : 27px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 328px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill59 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 71px;
+  height              : 5px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 349px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill61 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : 66px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 352px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill63 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : 5px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 351px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill65 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 193px;
+  height              : 89px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 372px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill67 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : 16px;
+  width               : 59px;
+  position            : absolute;
+  margin              : 0;
+  left                : 319px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill69 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 264px;
+  height              : 18px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 245px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill71 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 267px;
+  height              : 15px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 245px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill73 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 270px;
+  height              : 3px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 260px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill75 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 268px;
+  height              : 3px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 257px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill77 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 268px;
+  height              : 7px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 264px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill79 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 177px;
+  height              : 95px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 265px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill81 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 274px;
+  height              : 8px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 301px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill83 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 281px;
+  height              : 1px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 301px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill85 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 274px;
+  height              : 3px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 316px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill87 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 274px;
+  height              : 3px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 312px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill89 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 265px;
+  height              : 9px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 317px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill91 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 157px;
+  height              : 111px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .clip94 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 288px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill93 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : 3px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 352px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill95 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 88px;
+  height              : 24px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 169px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill96 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 106px;
+  height              : 38px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill97 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : 85px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill98 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 270px;
+  height              : 15px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 46px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill99 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 264px;
+  height              : 8px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill100 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : 20px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : 25px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill102 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 44px;
+  height              : 36px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill103 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : 5px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill104 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : 103px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill105 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 9px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 111px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill106 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : 38px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill107 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 275px;
+  height              : 10px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 112px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill108 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 269px;
+  height              : 7px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 112px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill109 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 127px;
+  height              : 12px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 101px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill110 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 162px;
+  height              : 110px;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill111 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 202px;
+  height              : 86px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill112 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 189px;
+  height              : 13px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill113 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 155px;
+  height              : 46px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill114 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 29px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill115 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 202px;
+  height              : 86px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill116 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : 4px;
+  width               : 349px;
+  position            : absolute;
+  margin              : 0;
+  left                : 95px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill117 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 145px;
+  height              : 143px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 95px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill118 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 145px;
+  height              : 143px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 431px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill119 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : 2px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill120 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : 80px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 140px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill121 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : 67px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 164px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill122 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : 86px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 406px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill123 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 49px;
+  height              : 20px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 426px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill124 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 37px;
+  height              : 25px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 411px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill125 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 19px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 404px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill126 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 42px;
+  height              : 5px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 427px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill127 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 273px;
+  height              : 15px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 456px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill128 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 267px;
+  height              : 8px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 469px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill129 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 58px;
+  height              : 77px;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 428px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill130 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 278px;
+  height              : 10px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 474px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill131 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 272px;
+  height              : 7px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 492px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill132 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 148px;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 443px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill133 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 77px;
+  height              : 46px;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 347px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill134 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 110px;
+  height              : 165px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 468px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill135 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : 27px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 299px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group138 .group137 .fill136 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 126px;
+  height              : 3px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 323px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .ourofficesofawas {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 942px;
+  height              : auto;
+  width               : 855px;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.about .ourofficesofawas .span1 {
+  line-height         : 27.0px;
+}
+.about .ourofficesofawas .span2 {
+  line-height         : 27.0px;
+  text-decoration     : underline;
+}
+.about .ourofficesofawas .span3 {
+  line-height         : 27.0px;
+}
+.about .ourofficesofawas .span4 {
+  line-height         : 27.0px;
+  text-decoration     : underline;
+}
+.about .ourofficesofawas .span5 {
+  line-height         : 27.0px;
+}
+.about .ourofficesofawas .span6 {
+  line-height         : 27.0px;
+  text-decoration     : underline;
+}
+.about .ourofficesofawas .span7 {
+  line-height         : 27.0px;
+}
+.about .ourofficesofawas .span8 {
+  line-height         : 27.0px;
+}
+.about .ourofficesofawas .span9 {
+  font-size           : 18.0px;
+  line-height         : 24.0px;
+}
+.about .ajadedrecruiterto {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1438px;
+  height              : auto;
+  width               : 869px;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.about .ajadedrecruiterto .span1 {
+  line-height         : 27.0px;
+}
+.about .ajadedrecruiterto .span2 {
+  text-align          : justify;
+  line-height         : 27.0px;
+}
+.about .ajadedrecruiterto .span3 {
+  font-size           : 18.0px;
+  line-height         : 24.0px;
+}
+.about .westartedbybuildi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1969px;
+  height              : auto;
+  width               : 869px;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.about .westartedbybuildi .span1 {
+  line-height         : 27.0px;
+}
+.about .westartedbybuildi .span2 {
+  text-align          : justify;
+  line-height         : 27.0px;
+}
+.about .westartedbybuildi .span3 {
+  font-size           : 18.0px;
+  line-height         : 24.0px;
+}
+.about .thepubandanapkin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 859px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 278px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 28.0px;
+  color               : rgba(19, 65, 111, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.35px;
+  line-height         : 46.0px;
+}
+.about .theheadscratcher {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1355px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 278px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 28.0px;
+  color               : rgba(19, 65, 111, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.35px;
+  line-height         : 46.0px;
+}
+.about .charlieshierarchy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1886px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 278px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 28.0px;
+  color               : rgba(19, 65, 111, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.35px;
+  line-height         : 46.0px;
+}
+.about .rectangle41 {
+  background-color    : rgba(241, 244, 248, 1.0);
+  top                 : 1308px;
+  height              : 2px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .rectangle411 {
+  background-color    : rgba(241, 244, 248, 1.0);
+  top                 : 1839px;
+  height              : 2px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .rectangle412 {
+  background-color    : rgba(241, 244, 248, 1.0);
+  top                 : 2370px;
+  height              : 2px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .aswetackledthech {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2500px;
+  height              : auto;
+  width               : 869px;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 18.0px;
+}
+.about .aswetackledthech .span1 {
+  line-height         : 27.0px;
+}
+.about .aswetackledthech .span2 {
+  font-size           : 18.0px;
+  line-height         : 24.0px;
+}
+.about .benschatbot {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2417px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 278px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 28.0px;
+  color               : rgba(19, 65, 111, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.35px;
+  line-height         : 46.0px;
+}
+.about .rectangle413 {
+  background-color    : rgba(241, 244, 248, 1.0);
+  top                 : 2935px;
+  height              : 2px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .ourgoalisalwayst {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3065px;
+  height              : auto;
+  width               : 869px;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : justify;
+  line-height         : 18.0px;
+}
+.about .ourgoalisalwayst .span1 {
+  line-height         : 27.0px;
+}
+.about .ourgoalisalwayst .span2 {
+  font-size           : 18.0px;
+  line-height         : 24.0px;
+}
+.about .thepunchline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2982px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 278px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 28.0px;
+  color               : rgba(19, 65, 111, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.35px;
+  line-height         : 46.0px;
+}
+.about .rectangle414 {
+  background-color    : rgba(241, 244, 248, 1.0);
+  top                 : 3338px;
+  height              : 2px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3415px;
+  height              : 487px;
+  width               : 953px;
+  position            : absolute;
+  margin              : 0;
+  left                : 244px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 134px;
+  height              : 352px;
+  width               : 953px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 350px;
+  width               : 268px;
+  position            : absolute;
+  margin              : 0;
+  left                : 685px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group2 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 210px;
+  height              : 141px;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group2 .group .group9copy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 51px;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group2 .group .group9copy4 .chiefmarketingoffi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : auto;
+  width               : 226px;
+  position            : absolute;
+  margin              : 0;
+  left                : -0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(39, 39, 39, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.0px;
+  line-height         : 19.0px;
+}
+.about .group7 .group5 .group2 .group .group9copy4 .maxknupfer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 163px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(19, 65, 111, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.83px;
+  line-height         : 32.0px;
+}
+.about .group7 .group5 .group2 .group .linkedinlogocopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : 17px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 104px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group2 .group .linkedinlogocopy3 .linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 18px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group2 .a15yearsintechnol {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 271px;
+  height              : auto;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.about .group7 .group5 .group2 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 185px;
+  width               : 188px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 350px;
+  width               : 268px;
+  position            : absolute;
+  margin              : 0;
+  left                : 349px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group3 .group9copy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 210px;
+  height              : 51px;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group3 .group9copy5 .chieftechnicaloffi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 226px;
+  position            : absolute;
+  margin              : 0;
+  left                : -0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(39, 39, 39, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.0px;
+  line-height         : 21.0px;
+}
+.about .group7 .group5 .group3 .group9copy5 .charliemarkham {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 226px;
+  position            : absolute;
+  margin              : 0;
+  left                : -0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(19, 65, 111, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.83px;
+  line-height         : 32.0px;
+}
+.about .group7 .group5 .group3 .linkedinlogocopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 334px;
+  height              : 17px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group3 .linkedinlogocopy2 .linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 18px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group3 .a15yearsintechnol {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 271px;
+  height              : auto;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.about .group7 .group5 .group3 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 185px;
+  width               : 188px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 352px;
+  width               : 268px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group4 .group9copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 210px;
+  height              : 53px;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group4 .group9copy .chiefexecutiveoffi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : 226px;
+  position            : absolute;
+  margin              : 0;
+  left                : -0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(39, 39, 39, 1.0);
+  text-align          : center;
+  letter-spacing      : 1.0px;
+  line-height         : 21.0px;
+}
+.about .group7 .group5 .group4 .group9copy .benkaminsky {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(19, 65, 111, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.83px;
+  line-height         : 32.0px;
+}
+.about .group7 .group5 .group4 .linkedinlogocopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 336px;
+  height              : 17px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 120px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group4 .linkedinlogocopy .linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 17px;
+  width               : 18px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .group5 .group4 .a10yearsininnovat {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 271px;
+  height              : auto;
+  width               : 270px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.about .group7 .group5 .group4 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 185px;
+  width               : 188px;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.about .group7 .theteambehindthe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 441px;
+  position            : absolute;
+  margin              : 0;
+  left                : 256px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Helvetica-Bold", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(226, 104, 154, 1.0);
+  text-align          : center;
+  letter-spacing      : 4.46px;
+  line-height         : 60.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
